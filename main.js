@@ -1,3 +1,7 @@
+//2018 KAKAO BLIND RECRUITMENT
+//[1차] 비밀지도
+//programers lv1
+
 let n = 5;
 let arr1 = [9, 20, 28, 18, 11];
 let arr2 = [30, 1, 21, 17, 28];
